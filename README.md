@@ -19,6 +19,10 @@
 
 ---
 
+ther is a google colaboratory notebook that contains
+- the code of the model
+<!-- https://colab.research.google.com/drive/1IrPLpKLteDhYX-SR6Jau7Tw0EAe3noGL#scrollTo=sDZIEasf2XXL -->
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IrPLpKLteDhYX-SR6Jau7Tw0EAe3noGL#scrollTo=sDZIEasf2XXL)
 
 
 ---
