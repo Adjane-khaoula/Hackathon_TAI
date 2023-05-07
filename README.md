@@ -39,6 +39,9 @@ ther is a google colaboratory notebook that contains
   <img src="https://freebiehive.com/wp-content/uploads/2023/02/ChatGPT-Logo-PNG-1.jpg" alt="chatgpt" width="40" height="40"/>
 </p>
 
+ Powerpoint_PDF
+ [Zane - Powerpoint-1.pdf](https://github.com/Adjane-khaoula/Hackathon_TAI/files/11414475/Zane.-.Powerpoint-1.pdf)
+
 ---
 
 ## Contributers
