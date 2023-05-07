@@ -1,5 +1,8 @@
 # NextStep
 
+<img width="1861" alt="Screen Shot 2023-05-07 at 4 23 54 AM" src="https://user-images.githubusercontent.com/96284181/236656007-1c856026-96c5-4e4d-beb4-f0d1a11d2c04.png">
+
+
 ## About NextStep
 
 - NextStep is a cutting-edge guidance tool designed to assist students in choosing the most appropriate educational path for their future. By leveraging the power of machine learning algorithms.
