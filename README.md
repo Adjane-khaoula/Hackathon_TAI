@@ -20,9 +20,11 @@
 ---
 
 ther is a google colaboratory notebook that contains
-- the code of the model
+- the code of the product
 <!-- https://colab.research.google.com/drive/1IrPLpKLteDhYX-SR6Jau7Tw0EAe3noGL#scrollTo=sDZIEasf2XXL -->
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IrPLpKLteDhYX-SR6Jau7Tw0EAe3noGL#scrollTo=sDZIEasf2XXL)
+</br>
+[![Open In Slide](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://docs.google.com/presentation/d/1mDhRofOJ_kzyKrIbWowCmYfkr2OSSZipEx4NvesgU8A/edit?usp=sharing)
 
 
 ---
@@ -38,9 +40,6 @@ ther is a google colaboratory notebook that contains
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Conda_logo.svg/1200px-Conda_logo.svg.png" alt="Conda" width="40" height="40"/>
   <img src="https://freebiehive.com/wp-content/uploads/2023/02/ChatGPT-Logo-PNG-1.jpg" alt="chatgpt" width="40" height="40"/>
 </p>
-
- Powerpoint_PDF
- [Zane - Powerpoint-1.pdf](https://github.com/Adjane-khaoula/Hackathon_TAI/files/11414475/Zane.-.Powerpoint-1.pdf)
 
 ---
 
